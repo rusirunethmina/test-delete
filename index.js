@@ -1,2 +1,2 @@
 console.log("hello rusiru");
-console.log("hello git");
+console.log("hello git kuna");
